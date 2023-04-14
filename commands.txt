@@ -1,0 +1,17 @@
+
+Create a new file:
+- touch "filename"
+
+Modify file.txt:
+- nano "filename"
+
+Visualize file:
+- cat "filename"
+
+Stepst to add files from Git Bash to GitHub:
+	Step 1:
+	- git add "namefile"
+	Step 2:
+	- git commit -m "namefile"
+	Step 3:
+	- git push
