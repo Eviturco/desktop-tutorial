@@ -8,6 +8,9 @@ Modify file.txt:
 Visualize file:
 - cat "filename"
 
+Move file:
+- mv "filename" "directory location"
+
 Stepst to add files from Git Bash to GitHub:
 	Step 1:
 	- git add "namefile"
